@@ -1,3 +1,7 @@
+.lebron{
+    width: 100%;
+    height: auto;
+}
 #mainMenu .nav-link{
     color: #17A2B8 ;
 }
@@ -10,4 +14,7 @@
     background: #17A2B8 ;
     color: black;
     border-radius: 5px;
+}
+#spaced{
+    height: 25rem;
 }
