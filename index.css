@@ -18,3 +18,12 @@
 #spaced{
     height: 25rem;
 }
+#contact{
+    width: 70%;
+    margin-top: 10rem; 
+}
+.footer ul a {
+    color: black;
+    text-decoration: none;
+    
+}
